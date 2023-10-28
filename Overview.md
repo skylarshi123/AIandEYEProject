@@ -1,6 +1,6 @@
 # AI Detection for Age-Related Macular Degeneration (AMD) - Documentation
 
-## Statistics
+## Statistics (From a 2020 report on South India)
 
 - **Cataract**: 58.6%
 - **Refractive error**: 30.2%
