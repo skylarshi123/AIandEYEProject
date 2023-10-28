@@ -1,5 +1,12 @@
 # AI Detection for Age-Related Macular Degeneration (AMD) - Documentation
 
+## Current Tasks
+
+- **Contact Doctors**: See what the doctors would need and plan project around delivering that specific spec
+- **How would the end product look like for the doctor to use**
+- **Data Preparation**: What do we need from the doctors in India, and what other datasets can we use
+
+  
 ## Statistics (From a 2020 report on South India)
 
 - **Cataract**: 58.6%
