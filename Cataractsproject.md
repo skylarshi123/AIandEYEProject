@@ -1,7 +1,7 @@
+
 **Project Essentials:**
 - Define project scope and objectives.
 - Set a clear deadline for the end of the quarter.
-- Establish communication channels for the team.
 
 **Data Collection and Preprocessing:**
 - Gather a dataset of eye images suitable for training the AI model.
@@ -28,7 +28,8 @@
 **Integration with iOS App (Optional):**
 - If time permits, prepare the model for integration into the iOS app.
 
-
+**Integration with iOS App (Optional):**
+- Tasks right now: Learn from Aditya's resources and get data!
 
 -This will be a more complete plan:
 
@@ -37,7 +38,6 @@
 **Project Essentials:**
 - Define project scope and objectives.
 - Set a clear deadline for the end of the quarter.
-- Establish communication channels for the team.
 - Identify app assets required for an effective user experience.
 
 **Data Collection and Preprocessing:**
